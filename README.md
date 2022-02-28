@@ -14,8 +14,6 @@ Data inputs should be the most recent available data.
 
 CHOSEN was developed by David Levine, MD, and colleagues at Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.
 
-This code was developed by [Eden Shaveet](mailto:eden.shaveet@tufts.edu) as a deliverable for HIA 225: Python for Health Informatics & Analytics at Tufts University School of Medicine in Spring 2022.
-
 An existing [CHOSEN calculator](https://www.mdcalc.com/covid-home-safely-now-chosen-risk-score-covid-19#evidence) developed by David Levine, MD, was used for cross-checking this code.
 
 ## CHOSEN Tool Instructions
